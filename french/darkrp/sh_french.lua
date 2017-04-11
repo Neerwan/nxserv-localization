@@ -346,7 +346,7 @@ local french = {
 	frozen = "Gelé.",
 	yes_demote = "Oui, je veux qu'il soit rétrogradé",
 	no_demote = "Non, je ne veux pas qu'il soit rétrogradé ",
-	dont_vote = "Vous n'avez pas voté",
+	dont_vote = "Ne pas voter",
 	demote_rule = [[Vote wisely, don't randomly press "yes" or "no" in votes. If you're unsure - press "not voting".]],
 
 	dead_in_jail = "Vous êtes mainteant mort jusqu'à que votre peine de prison soit terminée !",
