@@ -1373,7 +1373,7 @@ local french = {
 	lives_hud2 = "Récupération dans: %s minute(s)",
 
 	-- election
-	election_start = "Les élections débutent, votez pour votre candidat favori !",
+	election_start = "Les élections débutent, enregistrez vos candidatures !",
 	election_reg_over = "L'inscription aux élections est terminée, le vote a débuté !",
 	election_thanks_for_voting = "Votre vote a été enregistré",
 	election_over = "Les élections sont terminées. Vainqueur — %s",
