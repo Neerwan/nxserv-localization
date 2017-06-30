@@ -1427,7 +1427,7 @@ local french = {
 	district_rcar = "Périphérique",
 	district_mountain = "Montagnes",
 
-	can_steal_cars_no = "Le %s ne sait pas voler de voitures. Seul le %s peuvent faire cela.",
+	can_steal_cars_no = "Le %s ne sait pas voler de voitures. Seuls les %s peuvent faire cela.",
 }
 
 DarkRP.addLanguage("fr", french)
