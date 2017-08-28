@@ -3,7 +3,7 @@ module.exports = {
 		"Règles générales",
 		[
 			[
-				"Section Principale",
+				"Section principale",
 				[
 					"Il est interdit d'utiliser des logiciels ou bugs, qui peuvent procurer un avantage par rapport aux autres joueurs (Cheats, UseBug).",
 					"Il est interdit de perturber le fonctionnement du serveur.",
