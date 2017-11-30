@@ -6,7 +6,7 @@ local french = {
 	need_sadmin = "Vous devez être superadmin pour faire cela %s",
 	no_privilege = "Vous n'avez pas les bons privilèges pour faire cela",
 	no_jail_pos = "Pas de prison",
-	invalid_x = "%s invalide ! %s",
+	invalid_x = "%s invalide !",
 
 	-- F1 menu
 	f1ChatCommandTitle = "Commandes de chat",
