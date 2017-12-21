@@ -1390,7 +1390,7 @@ local french = {
 	["sboxlimit_elevator_near_level"] = "Vous devez être sur l'étage désiré et rester prêt de la chambre d'ascenseur",
 	["sboxlimit_elevator_blocked"] = "Quelque chose bloque la chambre d'ascenseur",
 	["sboxlimit_elevator_cant_see"] = "Le sol de votre nouvel ascenseur doit être au milieu de votre viseur",
-	-- Link Tool (dec. 2017)
+
 	tool_link_name = "Liaison",
 	tool_link_desc = "Lie des objets dans un ensemble afin de le sauvegarder dans le Duplicateur.",
 	tool_link_left = "sélectionner un objet ou un ensemble de props",
