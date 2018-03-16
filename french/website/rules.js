@@ -164,28 +164,6 @@ module.exports = {
 						Dès qu'une attaque est totalement terminée, vous avez l'autorisation de reconstruire.`,
 				]
 			],
-			[
-				"Questions & Réponses (facultatif)",
-				[
-					`Puis-je utiliser des imprimantes à argent en citoyen ? → Oui, mais préférable en gangster.`,
-					`Puis-je utiliser des imprimantes à argent en vendeur d'armes, commerçant ou en barman ? → Oui, mais vous devez continuer à faire du commerce et ne pas être en alliance avec des gangsters.`,
-					`Puis-je licencier qui je souhaite en tant que Maire et chef de police (vote non-Premium), avec le menu correspondant ? → Oui.`,
-					`Puis-je me déconnecter si quelqu'un me donne une somme d'argent, et qu'il attend quelque chose en échange ? → Non.`,
-					`Ai-je le droit de faire les mêmes actes qu'un gangster en mercenaire ? → Oui, mais préférable en gangster.`,
-					`Les policiers ont-ils le droit d'arrêter les sans-abris pour la raison "couvre-feu" ? → Oui.`,
-					`Puis-je détruire/voler un distributeur en policier sans raison ? → Non.`,
-					`Puis-je uniquement créer une fading door sans mettre de keypad ni de bouton ? → Oui.`,
-					`Les policiers peuvent-ils être en alliance avec les gangsters ? → Non.`,
-					`Les gangsters peuvent-ils être en alliance avec les policiers ? → Oui, ils peuvent les aider.`,
-					`Puis-je poser une tourelle en extérieur ? → Non, les tourelles doivent être placées dans des endroits clos.`,
-					`Puis-je bloquer l'accès à un quartier/immeuble entier si je possède tous les bâtiments compris dans ce dernier ? → Oui.`,
-					`Puis-je me venger de quelqu'un qui m'a tué/braqué il y a plus d'une heure ? → Non.`,
-					`Ai-je le droit de détruire tous les props d'une base d'autrui afin de pouvoir m'approprier les lieux ? → Non.`,
-					`Lors d'un couvre-feu, un policier a t-il le droit de m'arrêter quand bien même que je suis dans un bâtiment, même s'il ne m'appartient pas ? → Non.`,
-					`Ai-je le droit, en tant que maire de rester sur un immeuble avec mon hélicoptère et faire des loteries ? → Non.`,
-					`Ai-je le droit, en tant que maire d'initier des couvre-feux interminables, avec une raison valide ? → Non.`,
-				]
-			],
 		],
 	]
 }
