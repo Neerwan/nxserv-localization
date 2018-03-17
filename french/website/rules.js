@@ -96,6 +96,7 @@ module.exports = {
 					`Vous POUVEZ fouiller les maisons sans raison. N'importe quelle raison de mandat est valide (sauf insultes).`,
 					`Les policiers corrompus ne peuvent pas agir contre les forces de l'ordre. Par exemple, les policiers corrompus peuvent "ne pas prendre en compte" certains crimes ou "accidentellement" oublier de fermer la porte de la prison ; mais ils ne peuvent pas attaquer un autre policier.`,
 					`Le maire n'est pas autorisé à faire des lois ne respectant pas les règles du serveur.`,
+					`Le maire et le chef de la police ne peuvent pas licencier un policier sans aucune raison.`,
 					`La torture des prisonniers est régie par le maire ou le chef de la police.`,
 					`Le maire et les policiers ne sont pas autorisés à pratiquer des activités illégales et criminelles.<br>
 						Ils ne peuvent par exemple pas s'allier à un groupe de gangsters et utiliser des imprimantes avec eux.`,
