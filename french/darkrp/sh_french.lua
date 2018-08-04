@@ -1256,11 +1256,11 @@ local french = {
 	rpname_info = "Réfléchissez bien à votre nom rôleplay.\nIl devra être réaliste (et non Chat Miaou, L'Homme Crabe), il ne devra pas contenir de ponctuation inutile et devra suivre les règles générales de capitalisation des mots (pas de noms tout en majuscules).",
 	rpname_name = "Prénom",
 	rpname_surname = "Nom de famille",
-	rpname_fail_length_min = "Needs to be no shorter than %d",
-	rpname_fail_length_max = "Needs to be no longer than %d",
-	rpname_fail_blocked = "Bad name",
-	rpname_fail_notallowed = "Includes unallowed characters",
-	rpname_fail_exclusive = "hm?", -- not needed for this language
+	rpname_fail_length_min = "Ne doit pas être plus court que %d",
+	rpname_fail_length_max = "Ne doit pas être plus long que %d",
+	rpname_fail_blocked = "Nom incorrect",
+	rpname_fail_notallowed = "Inclu des caractères non-autorisés",
+	rpname_fail_exclusive = "euh ?", -- not needed for this language
 	rpname_fail_words = "2 parties (prénom et nom de famille) requises",
 
 	premium = "Premium",
