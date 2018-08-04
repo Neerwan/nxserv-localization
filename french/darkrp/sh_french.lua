@@ -986,7 +986,7 @@ local french = {
 	select_radio_channel = "Changer la fréquence radio",
 	radio_off = "Éteindre la radio",
 	radio_on = "Allumer la radio",
-	ballot_reopen = "Ouvrir un bulletin électoral",
+	ballot_reopen = "Participer à l'élection",
 
 	create_group = "Créer un nouveau gang",
 	manage_group = "Gérer votre gang",
@@ -1506,7 +1506,7 @@ local french = {
 	lives_hud = "Vies : ",
 
 	-- election
-	election_start = "L'inscription aux élections débutent, envoyez vos candidatures !",
+	election_start = "L'inscription aux élections débute, envoyez vos candidatures !",
 	election_reg_over = "L'inscription aux élections est terminée, le vote a débuté !",
 	election_thanks_for_voting = "Votre vote a été enregistré",
 	election_over = "Les élections sont terminées. Vainqueur — %s",
