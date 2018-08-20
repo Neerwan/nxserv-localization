@@ -1119,7 +1119,7 @@ local french = {
 
 	--
 	car_hint_coplight = "Appuyer sur shift et R pour activer les gyrophares",
-	car_hint_taxiprice = "Vous pouvez changer le prix par kilomètre en restant appuyé sur C et cliquer sur 'Fixer le prix au kilomètre'",
+	car_hint_taxiprice = "Vous pouvez changer le prix par kilomètre en appuyant sur F > 'Fixer le prix au kilomètre'",
 
 	-- Taxi
 	taxi_nomoney = "Vous n'avez plus assez d'argent pour payer le chauffeur !",
