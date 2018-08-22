@@ -107,7 +107,6 @@ module.exports = {
 					`Si un de vos clients vous agresse ou vous insulte, perturbe la paix dans votre boutique, est recherché par la police ou ne possède pas de licence ou autre, vous pouvez ne pas le servir.<br/>
 						Dans le cas contraire où le client est pacifique, vous devez le servir.`,
 					`Les pompiers, les médecins, les vendeurs d'armes, les commerçants, les barmans, les mécaniciens, les agents de sécurité et les chauffeurs de taxis ne sont pas autorisés à utiliser leurs capacités à des fins criminelles ou de participer à des activités criminelles.`,
-					`Tous les hommes d'affaires devraient faire des profits sur leurs ventes.`,
 				]
 			],
 			[
