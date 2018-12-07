@@ -196,7 +196,7 @@ local french = {
 	pocket_full = "Votre poche est pleine !",
 	pocket_no_items = "Votre poche est vide.",
 	drop_item = "Inventaire",
-	drop_ammo = "Drop ammo/attachments",
+	drop_ammo = "Lancer les munitions/extras d'armes",
 
 	pickup_item = "Ramasser un objet",
 	put_item_in_pocket = "Mettre l'objet dans la poche",
@@ -248,7 +248,7 @@ local french = {
 	group = "(groupe)",
 	demote = "(RÉTROGRADATION)",
 	ooc = "Ville",
-	chat_in_region = "Region",
+	chat_in_region = "Région",
 	radio_x = "Radio %d",
 
 	talk = "parler",
@@ -383,7 +383,7 @@ local french = {
 	lottery_noone_entered = "Personne n'a participé à la loterie !",
 	lottery_won = "%s a remporté la loterie ! Il a gagné %s",
 	lottery_you_won = "Vous avez remporté la loterie !",
-	lottery_msg = "Lottery %s has started",
+	lottery_msg = "La loterie %s a été lancée",
 
 	-- Animations
 	custom_animation = "Gestes",
@@ -515,8 +515,8 @@ local french = {
 	
 	hits_wanted_reason = "Client du crime",
 
-	dealer_sellgoods = "Sell Illegal Goods",
-	sold_x_goods = "You have sold %d goods for %s!",
+	dealer_sellgoods = "Vendre des biens illégaux",
+	sold_x_goods = "Vous avez vendu %d biens pour %s !",
 
 	-- Shops
 
@@ -553,7 +553,7 @@ local french = {
 	stackable = "Stackable",
 	canpocket = "Rentre dans la poche",
 
-	no_place_excl = "Pas d'espace!",
+	no_place_excl = "Pas assez d'espace !",
 
 	-- Vote Restrictions
 	hobos_no_rights = "Les sans abri n'ont pas le droit de vote",
@@ -1317,7 +1317,7 @@ local french = {
 	rpname_fail_notallowed = "Inclu des caractères non-autorisés",
 	rpname_fail_exclusive = "euh ?", -- not needed for this language
 	rpname_fail_words = "2 parties (prénom et nom de famille) requises",
-	rpname_fail_capital = "Lettres majuscules?",
+	rpname_fail_capital = "Lettres majuscules ?",
 
 	premium = "Premium",
 	connecting = "Connexion",
