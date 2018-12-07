@@ -189,11 +189,11 @@ return {
 			advert = "publicité",
 			team = "groupe",
 			all = "tout",
-			region = "region",
+			region = "région",
 		},
 
 		chattypes_hints = {
-			region = "message will be visible to all neighbor servers",
+			region = "le message sera visible sur tous les serveurs francophones",
 		},
 	},
 }
