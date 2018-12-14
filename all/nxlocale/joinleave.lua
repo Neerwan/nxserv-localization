@@ -13,16 +13,16 @@ return {
 	},
 
 	fr = {
-		joined = " connected",
-		from = " to server from ",
-		spawned = " joined",
-		ingame = " the game",
-		lost_connection = " lost connection",
-		with_server = " to server",
-		left = " disconnected",
-		kicked = " was forcively disconnected",
-		banned = " was banned",
-		from_server = " from server",
+		joined = " connecté",
+		from = " au serveur depuis ",
+		spawned = " est apparu",
+		ingame = " le jeu",
+		lost_connection = " connexion perdue",
+		with_server = " au serveur",
+		left = " s'est déconnecté",
+		kicked = " a été contraint à se déconnecter",
+		banned = " a été banni",
+		from_server = " du serveur",
 	},
 
 	ru = {
