@@ -92,6 +92,7 @@ local french = {
 	-- Players
 	health = "Santé : %s",
 	job = "Métier : %s",
+	job_s = "Métier",
 	salary = "Salaire : %s%s",
 	wallet = "Portefeuille : %s%s",
 	weapon = "Arme : %s",
@@ -108,6 +109,7 @@ local french = {
 	wanted = "Recherché : ",
 
 	-- Cars
+	rented_car_tag = "Loyer",
 	path = "Course : ",
 	m = "%d m",
 	km = "%.1f km",
