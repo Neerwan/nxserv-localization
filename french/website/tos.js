@@ -12,7 +12,7 @@ const terms = [
 	`Vous acceptez d'informer l'administration des problèmes majeurs qui perturberaient le fonctionnement des serveurs ou qui permettraient d'obtenir un avantage injuste.
 	Il est sanctionnable de posséder et de ne pas divulguer de telles informations, ainsi que de les transmettre à d'autres personnes.`,
 
-	`Vous acceptez de ne pas échanger la monnaie du jeu et ses objets contre de la monnaie réelle ou ses équivalents, utilisant d'autres moyens d'intéraction outre la boutique NxShop et la boutique à https://nxserv.eu/.`,
+	`Vous acceptez de ne pas échanger la monnaie du jeu et ses objets contre de la monnaie réelle ou ses équivalents, utilisant d'autres moyens d'interaction outre la boutique NxShop et la boutique à https://nxserv.eu/.`,
 
 	`Vous acceptez de ne pas utiliser les ressources de NxServ pour diffuser et acquérir des informations qui sont interdites par les lois et les institutions de la Fédération Russe, ou des informations qui violent la confidentialité d'autrui.`,
 
@@ -34,7 +34,7 @@ const terms = [
 
 	`NxServ se réserve le droit de scanner la mémoire temporaire et permanente, les appareils et le réseau des utilisateurs lors d'une session de jeu afin de détecter la signature de logiciels et appareils interdits.`,
 
-	`NxServ n'offre aucune garantie, ne porte aucune responsabilité pour tout dommage ou autres obligations, survenus lors de l'utilisation de logiciels et/ou n'importe quelle autre intéraction avec les objets de la propriété de NxServ.`,
+	`NxServ n'offre aucune garantie, ne porte aucune responsabilité pour tout dommage ou autres obligations, survenus lors de l'utilisation de logiciels et/ou n'importe quelle autre interaction avec les objets de la propriété de NxServ.`,
 
 	`NxServ se réserve le droit de résilier cet accord avec vous à tout moment, pour n'importe quelle raison, sans explications, notifications ou avertissements.`,
 
