@@ -56,7 +56,6 @@ module.exports = {
 					`Les gangsters et les chefs de gangs sont "invisibles" - ils ressemblent à des citoyens normaux (ce qui signifie que vous ne pouvez pas fouiller un gangster, juste parce que vous voyez qu'il est gangster).<br>
 						Toutes les autres informations affichées sur l'écran sont aussi vues par votre personnage.`,
 					`Ne changez pas de métier dans l'unique but d'acquérir des objets, des armes, des capacités ou n'importe quoi d'autre (JobAbuse).`,
-					`En cas d'attaque contre le maire, il est formellement interdit de tuer tous les policiers que vous voyez.`,
 					`Seuls les gangsters, les sans-abris et les mercenaires peuvent commettre des actes sévèrement illégaux, comme des braquages, attentats contre le maire, etc.`,
 					`Ne faites pas quelque chose d'impossible qu'une personne réelle ne ferait pas, c'est-à-dire :
 						<ul>
