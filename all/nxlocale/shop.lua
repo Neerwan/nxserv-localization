@@ -77,6 +77,21 @@ Gameplay:
 		fine = "Fine",
 		fine_desc = "You need to pay a €3,000 fine for destroying your rented car,\nbefore using rent again.\nPay now?",
 		free = "FREE",
+
+		slot_names = {
+			face2 = "Face",
+			eyes = "Eyes",
+			torso = "Body",
+			legs = "Legs",
+			fullbody = "Suit",
+			hat = "Hat",
+			glasses = "Glasses",
+			face = "Headbands/masks",
+			mouth = "Mouth",
+			neck = "Neck",
+			back = "Back",
+			tail = "Tail",
+		},
 	},
 
 	ru = {
@@ -158,6 +173,21 @@ Gameplay:
 		fine = "Штраф",
 		fine_desc = "Необходимо заплатить штраф за повреждение арендованной машины в размере €3,000,\nпрежде чем снова пользоваться арендой.\nЗаплатить сейчас?",
 		free = "БЕСПЛАТНО",
+
+		slot_names = {
+			face2 = "Лицо",
+			eyes = "Глаза",
+			torso = "Тело",
+			legs = "Ноги",
+			fullbody = "Костюмы",
+			hat = "Шляпа",
+			glasses = "Очки",
+			face = "Повязки/маски",
+			mouth = "Губы",
+			neck = "Шея",
+			back = "Спина",
+			tail = "Хвост",
+		},
 	},
 
 	fr = {
@@ -238,5 +268,20 @@ Gameplay :
 		fine = "Amende",
 		fine_desc = "Vous devez payer une amende de 3,000€ pour détruire le véhicule loué,\navant d'utiliser la location de nouveau.\nPayer maintenant ?",
 		free = "GRATUIT",
+
+		slot_names = {
+			face2 = "Face",
+			eyes = "Eyes",
+			torso = "Body",
+			legs = "Legs",
+			fullbody = "Suit",
+			hat = "Hat",
+			glasses = "Glasses",
+			face = "Headbands/masks",
+			mouth = "Mouth",
+			neck = "Neck",
+			back = "Back",
+			tail = "Tail",
+		},
 	},
 }
