@@ -16,10 +16,10 @@ return {
 	},
 
 	fr = {
-		title = "Report a problem",
-		entry_label = "Specify your problem:",
-		send_button = "Send",
-		thanks = "Thank you!",
-		too_short = "Message is too short",
+		title = "Signaler un problème",
+		entry_label = "Précisez votre problème (+ nom du joueur) :",
+		send_button = "Envoyer",
+		thanks = "Merci !",
+		too_short = "La description est trop courte",
 	},
 }
