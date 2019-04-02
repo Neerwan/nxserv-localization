@@ -1,4 +1,6 @@
-local french = {
+return "fr", {
+	looking_your_shop = "Visits your shop",
+
 	ldscr_greet = "Vous avez choisi, ou avez été choisi, pour jouer sur notre meilleur serveur français",
 
 	-- Admin things
@@ -72,6 +74,7 @@ local french = {
 	cant_arrest_no_jail_pos = "Vous ne pouvez pas arrêter les gens car il n'y a aucune prison !",
 	cant_arrest_spawning_players = "Vous ne pouvez pas arrêter les personnes qui viennent d'apparaître.",
 	escape_from_jail = "échappé de prison",
+	need_policeres = "Need %d police tokens",
 
 	suspect_doesnt_exist = "Le suspect n'existe pas.",
 	actor_doesnt_exist = "La personne n'existe pas.",
@@ -158,6 +161,7 @@ local french = {
 	sold_x_doors = "Vous avez vendu %d porte(s) pour %s !",
 
 	-- Entities
+	soccer_ball = "Soccer Ball",
 	gmod_camera = "Caméra",
 	gmod_tool = "Tool Gun",
 	weapon_bugbait = "Pile de déchêts",
@@ -542,6 +546,7 @@ local french = {
 	resdealer_but = "Obtenir %d RES pour %s",
 	resdealer_msg = "Vous avez reçu %d RES pour %s",
 	resdealer_title = "Vendeur de ressources",
+	resdealer_subtitle = "Resources for your shop",
 
 	remove_current_ammo = "Éjecter les munitions",
 
@@ -924,6 +929,9 @@ local french = {
 	car_rent_cant_pay_fine = "Fonds insuffisants pour régler l'amende",
 	car_rent_banned = "Vous avez été banni de louer des véhicules pendant %s",
 
+	cars_unavail = "You have no cars available",
+	cars_unavail_hint = "Cars can be purchased for money or given from some jobs",
+
 	-- Laws
 	laws_title = "Lois de la ville",
 	laws_speedlimit = "Limite de vitesse des véhicules : ",
@@ -1032,6 +1040,7 @@ local french = {
 	hitman_setprice = "Fixer le prix au meurtre",
 	enter_price = "Saisir le prix",
 	enter_reason = "Saisir la raison",
+	enter_reason_suspect = "Suspect: %s\n\nEnter reason",
 	stop_dna_scan = "Arrêter l'analyse ADN",
 	enter_entry_cost = "Saisir le coût d'entrée",
 	select_radio_channel = "Changer la fréquence radio",
@@ -1089,6 +1098,11 @@ local french = {
 	pwl_wait = "Patientez %d secondes.",
 	pwl_success = "Arme prise.",
 	pwl_returned = "Arme retournée.",
+
+	pwl_unit_lightassault = "Assault",
+	pwl_unit_heavyassault = "Support",
+	pwl_unit_sniper = "Sniper",
+	pwl_unit_demolition = "Demolition",
 
 	--
 	radar_already = "Vous possédez déjà un radar.",
@@ -1310,7 +1324,7 @@ local french = {
 	ifak_nomoney = "Vous ne receverez pas d'argent à soigner cette personne, car vous l'avez blessée auparavant",
 	dice_roll = "%s a lancé les dés (%d). Le dé est tombé sur le %d.",
 
-	rpname_info = "Réfléchissez bien à votre nom rôleplay.\nIl devra être réaliste (et non Chat Miaou, L'Homme Crabe), il ne devra pas contenir de ponctuation inutile et devra suivre les règles générales de capitalisation des mots (pas de noms tout en majuscules).",
+	rpname_info = "Réfléchissez bien à votre nom rôleplay.\n\nIl devra être réaliste (et non Chat Miaou, L'Homme Crabe),\nil ne devra pas contenir de ponctuation inutile\net devra suivre les règles générales de capitalisation des mots (pas de noms tout en majuscules).",
 	rpname_name = "Prénom",
 	rpname_surname = "Nom de famille",
 	rpname_fail_length_min = "Ne doit pas être plus court que %d",
@@ -1431,9 +1445,12 @@ local french = {
 	lockdown_info_timeout = "Vous pouvez être arrêté pour un non respect d'un couvre feu",
 
 	pd_permit_give = "Donner/extendre l'autorisation d'entrée commissariat (%d min)",
+	pd_permit_revoke = "Revoke PD entrance permit",
 	pd_permit_timeleft = "Autorisation d'entrée commissariat : %s",
-	pd_permit_given = "L'autorisation d'entrée commissariat pour %s a été effectuée avec succès ",
-	pd_permit_got = "Vous avez reçu une autorisation d'entrée commissariat",
+	pd_permit_issued_actor = "Issued a PD entrance permit for %s",
+	pd_permit_issued_target = "Got a PD entrance permit for %d min",
+	pd_permit_revoked_actor = "Revoked PD entrance permit for %s",
+	pd_permit_revoked_target = "Your PD entrance permit has been revoked; please vacate the premises immediately",
 
 	pd_entrance_warning = "Entrer ici sans autorisation est interdit",
 
@@ -1634,5 +1651,3 @@ local french = {
 
 	bus_announcer_next = "Le prochain arrêt est",
 }
-
-Blue.addLanguage("fr", french)
