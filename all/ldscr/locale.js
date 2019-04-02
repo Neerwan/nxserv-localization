@@ -50,7 +50,7 @@ var langs = {
 		hints: [
 
 		],
-		ac_warning: "Use of cheats is strictly prohibited and is punished with unremovable ban",
-		ac_frags: "Caught violators: ",
+		ac_warning: "L'utilisation de logiciels de triche est formellement interdit et est punie par une sanction irrévoquable",
+		ac_frags: "Joueurs bannis pour triche : ",
 	}
 }
