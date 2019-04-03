@@ -1,5 +1,5 @@
 return "fr", {
-	looking_your_shop = "Visits your shop",
+	looking_your_shop = "Parcourt votre boutique",
 
 	ldscr_greet = "Vous avez choisi, ou avez été choisi, pour jouer sur notre meilleur serveur français",
 
@@ -74,7 +74,7 @@ return "fr", {
 	cant_arrest_no_jail_pos = "Vous ne pouvez pas arrêter les gens car il n'y a aucune prison !",
 	cant_arrest_spawning_players = "Vous ne pouvez pas arrêter les personnes qui viennent d'apparaître.",
 	escape_from_jail = "échappé de prison",
-	need_policeres = "Need %d police tokens",
+	need_policeres = "Vous avez besoin de %d points de police",
 
 	suspect_doesnt_exist = "Le suspect n'existe pas.",
 	actor_doesnt_exist = "La personne n'existe pas.",
@@ -161,7 +161,7 @@ return "fr", {
 	sold_x_doors = "Vous avez vendu %d porte(s) pour %s !",
 
 	-- Entities
-	soccer_ball = "Soccer Ball",
+	soccer_ball = "Balle de footbal",
 	gmod_camera = "Caméra",
 	gmod_tool = "Tool Gun",
 	weapon_bugbait = "Pile de déchêts",
@@ -546,7 +546,7 @@ return "fr", {
 	resdealer_but = "Obtenir %d RES pour %s",
 	resdealer_msg = "Vous avez reçu %d RES pour %s",
 	resdealer_title = "Vendeur de ressources",
-	resdealer_subtitle = "Resources for your shop",
+	resdealer_subtitle = "Ressources pour votre boutique",
 
 	remove_current_ammo = "Éjecter les munitions",
 
@@ -929,8 +929,8 @@ return "fr", {
 	car_rent_cant_pay_fine = "Fonds insuffisants pour régler l'amende",
 	car_rent_banned = "Vous avez été banni de louer des véhicules pendant %s",
 
-	cars_unavail = "You have no cars available",
-	cars_unavail_hint = "Cars can be purchased for money or given from some jobs",
+	cars_unavail = "Vous n'avez pas de véhicule disponible",
+	cars_unavail_hint = "Les véhicules peuvent être achetés ou donnés par certains métiers",
 
 	-- Laws
 	laws_title = "Lois de la ville",
@@ -1040,7 +1040,7 @@ return "fr", {
 	hitman_setprice = "Fixer le prix au meurtre",
 	enter_price = "Saisir le prix",
 	enter_reason = "Saisir la raison",
-	enter_reason_suspect = "Suspect: %s\n\nEnter reason",
+	enter_reason_suspect = "Suspect : %s\n\nEntrer la raison",
 	stop_dna_scan = "Arrêter l'analyse ADN",
 	enter_entry_cost = "Saisir le coût d'entrée",
 	select_radio_channel = "Changer la fréquence radio",
@@ -1099,10 +1099,10 @@ return "fr", {
 	pwl_success = "Arme prise.",
 	pwl_returned = "Arme retournée.",
 
-	pwl_unit_lightassault = "Assault",
+	pwl_unit_lightassault = "Assaut",
 	pwl_unit_heavyassault = "Support",
-	pwl_unit_sniper = "Sniper",
-	pwl_unit_demolition = "Demolition",
+	pwl_unit_sniper = "Tireur d'élite",
+	pwl_unit_demolition = "Démolition",
 
 	--
 	radar_already = "Vous possédez déjà un radar.",
@@ -1445,12 +1445,12 @@ return "fr", {
 	lockdown_info_timeout = "Vous pouvez être arrêté pour un non respect d'un couvre feu",
 
 	pd_permit_give = "Donner/extendre l'autorisation d'entrée commissariat (%d min)",
-	pd_permit_revoke = "Revoke PD entrance permit",
+	pd_permit_revoke = "Révoquer l'autorisation d'entrée",
 	pd_permit_timeleft = "Autorisation d'entrée commissariat : %s",
-	pd_permit_issued_actor = "Issued a PD entrance permit for %s",
-	pd_permit_issued_target = "Got a PD entrance permit for %d min",
-	pd_permit_revoked_actor = "Revoked PD entrance permit for %s",
-	pd_permit_revoked_target = "Your PD entrance permit has been revoked; please vacate the premises immediately",
+	pd_permit_issued_actor = "Vous avez donné une autorisation d'entrée dans le commissariat à %s",
+	pd_permit_issued_target = "Vous avez reçu une autorisation d'entrée dans le commissariat pour %d minutes",
+	pd_permit_revoked_actor = "Retrait de l'autorisation d'entrée dans le commissariat à %s",
+	pd_permit_revoked_target = "Votre autorisation d'entrée dans le commissariat a été révoquée ; veuillez quitter les lieux",
 
 	pd_entrance_warning = "Entrer ici sans autorisation est interdit",
 
