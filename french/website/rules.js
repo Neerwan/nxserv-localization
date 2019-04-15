@@ -89,11 +89,11 @@ module.exports = {
 					`Les policiers ne doivent utiliser leurs armes létales qu'uniquement si la vie d'autrui ou leur propre vie est mise en danger (personne armée, réparation de tourelle, C4, chef de gang qui menotte des gens, etc.)`,
 					`Il est interdit de taser quelqu'un sans raison valide (FreeTase).`,
 					`Il est interdit de menotter quelqu'un abusivement (FreeCuff).`,
+					`Il est interdit de fouiller quelqu'un sans raison.`,
 					`Il est interdit d'utiliser le bélier sans raison valide (destruction de props, éjection de véhicule).`,
 					`Toutes les recherches et les couvre-feux, doivent être suivis par une raison cohérente. Les raisons telles que \"lol\", \"fouille\", \"ccccccc\" sont invalides.`,
 					`Le couvre-feu ne peut être utilisé qu'en cas d'urgence. Il n'est pas autorisé de programmer des couvre-feux.`,
 					`La police est autorisée à construire des barrières, des points de contrôle, des ralentisseurs ainsi qu'à bloquer des rues ou des bâtiments. Cependant, chaque barrière bloquant quelque chose doit avoir une entrée piratable.`,
-					`Il est interdit de fouiller quelqu'un sans raison.`,
 					`S'introduire et fouiller une propriété sans mandat est autorisé. De plus, n'importe quelle raison de mandat est valide (sauf insultes).`,
 					`Les policiers corrompus ne peuvent pas agir contre les forces de l'ordre. Par exemple, les policiers corrompus peuvent "ne pas prendre en compte" certains crimes ou "accidentellement" oublier de fermer la porte de la prison ; mais ils ne peuvent pas voler leur véhicule sans raison.`,
 					`Le maire n'est pas autorisé à faire des lois ne respectant pas les règles du serveur.`,
@@ -110,7 +110,7 @@ module.exports = {
 					`Les règles suivantes concernent tous les métiers présents dans les onglets "Services de la ville" et "Affaires".`,
 					`Si un de vos clients vous agresse ou vous insulte, perturbe la paix dans votre boutique, est recherché par la police ou ne possède pas de licence ou autre, vous pouvez ne pas le servir.<br/>
 						Dans le cas contraire où le client est pacifique, vous devez le servir.`,
-					`Les pompiers, les médecins, les vendeurs d'armes, les commerçants, les barmans, les mécaniciens, les agents de sécurité et les chauffeurs (bus & taxi) ne sont pas autorisés à utiliser leurs capacités à des fins criminelles ou de participer à des activités criminelles.`,
+					`Les médecins, les vendeurs d'armes, les commerçants, les barmans, les mécaniciens, les agents de sécurité et les chauffeurs (bus & taxi) ne sont pas autorisés à utiliser leurs capacités à des fins criminelles ou de participer à des activités criminelles.`,
 				]
 			],
 			[
