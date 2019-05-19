@@ -62,8 +62,8 @@ Gameplay:
 * Job limits aren't applied to you, you can get any job at any time
 * When starting (as Mayor) a lottery you get 5% from lottery pool
 * Money Printers and Fishing give 50% more income]],
-		richbitch_desc = "Only for DarkRP. Number of purchases is unlimited.",
-		richbitch_title = "In-Game Currency %s",
+		moneypack_desc = "Only for DarkRP. Number of purchases is unlimited.",
+		moneypack_title = "In-Game Currency %s",
 		premium_car_desc = [[Exclusive Premium-class vehicle, permanently added to your vehicle list.]],
 		car_seats = "Passenger seats: %d",
 		car_hardness = "Body strength: %d",
@@ -73,9 +73,9 @@ Gameplay:
 		car_trunk_cap = "Trunk capacity: %d",
 		rent = "Rent...",
 		rent_x = "Rent ",
-		rent_desc = "First fee: €10,000.\nThen rent payment occurs every game evening in amount of %s.\nIf you are unable to pay rent, it will be cancelled.\nIf in the event of forced cancellation your car is destroyed,\nthen you will be banned from rent on 1 game day and then you will have to pay a €3,000 fine.\nSpendings on car modification are not refunded.",
+		rent_desc = "First fee: 10,000 kr.\nThen rent payment occurs every game evening in amount of %s.\nIf you are unable to pay rent, it will be cancelled.\nIf in the event of forced cancellation your car is destroyed,\nthen you will be blocked from rent for 1 game day and then you will have to pay a 3,000 kr fine.\nSpendings on car modification are not refunded.",
 		fine = "Fine",
-		fine_desc = "You need to pay a €3,000 fine for destroying your rented car,\nbefore using rent again.\nPay now?",
+		fine_desc = "You need to pay a 3,000 kr fine for destroying your rented car,\nbefore using rent again.\nPay now?",
 		free = "FREE",
 
 		slot_names = {
@@ -158,8 +158,8 @@ Gameplay:
 * Занимать профессии можно в обход лимитов
 * Когда вы играете за Главу города и проводите лотерею, вы получаете 5% от выигрыша
 * Принтеры и рыбалка дают на 50% больше прибыли]],
-		richbitch_desc = "Только для DarkRP. Количество приобретений неограниченно.",
-		richbitch_title = "Игровая валюта %s",
+		moneypack_desc = "Только для DarkRP. Количество приобретений неограниченно.",
+		moneypack_title = "Игровая валюта %s",
 		premium_car_desc = [[Эксклюзивный автомобиль Премиум-класса, добавляемый в список купленных машин навсегда.]],
 		car_seats = "Мест для пассажиров: %d",
 		car_hardness = "Прочность кузова: %d",
@@ -169,9 +169,9 @@ Gameplay:
 		car_trunk_cap = "Вместимость багажника: %d",
 		rent = "Арендовать...",
 		rent_x = "Аренда ",
-		rent_desc = "Первоначальная комиссия: €10,000.\nЗатем следует списание каждый игровой вечер в размере %s.\nЕсли вы будете неспособны оплатить аренду, то она прекращается.\nЕсли при принудительном прекращении аренды машина будет разрушена,\nто вы будете забанены с аренды на 1 игровой день и будете вынуждены заплатить штраф €3,000.\nЗатраты на модификацию машины не возвращаются.",
+		rent_desc = "Первоначальная комиссия: 10,000 kr.\nЗатем следует списание каждый игровой вечер в размере %s.\nЕсли вы будете неспособны оплатить аренду, то она прекращается.\nЕсли при принудительном прекращении аренды машина будет разрушена,\nто вам будет запрещена аренда на 1 игровой день и вы будете вынуждены заплатить штраф 3,000 kr.\nЗатраты на модификацию машины не возвращаются.",
 		fine = "Штраф",
-		fine_desc = "Необходимо заплатить штраф за повреждение арендованной машины в размере €3,000,\nпрежде чем снова пользоваться арендой.\nЗаплатить сейчас?",
+		fine_desc = "Необходимо заплатить штраф за повреждение арендованной машины в размере 3,000 kr,\nпрежде чем снова пользоваться арендой.\nЗаплатить сейчас?",
 		free = "БЕСПЛАТНО",
 
 		slot_names = {
@@ -253,8 +253,8 @@ Gameplay :
 * La limite de métiers n'est pas appliquée à vous, vous pouvez jouer n'importe quel métier à n'importe quel moment
 * En tant que maire, lors du démarrage d'une loterie, vous recevez 5% des gains
 * Les imprimantes à argent et la pêche donnent 50% de revenus en plus]],
-		richbitch_desc = "Seulement pour le DarkRP. Le nombre d'achat est illimité.",
-		richbitch_title = "%s Monnaie Du Jeu",
+		moneypack_desc = "Seulement pour le DarkRP. Le nombre d'achat est illimité.",
+		moneypack_title = "%s Monnaie Du Jeu",
 		premium_car_desc = [[Catégorie exclusive de véhicules Premium, ajoutés de façon permanente à votre liste de véhicules.]],
 		car_seats = "Sièges passagers : %d",
 		car_hardness = "Résistance du véhicule : %d",
@@ -264,9 +264,9 @@ Gameplay :
 		car_trunk_cap = "Capacité du coffre : %d",
 		rent = "Louer...",
 		rent_x = "Louer ",
-		rent_desc = "Premier frais : 10,000€.\nEnsuite, le paiement est effectué chaque soir en jeu d'un montant de %s.\nSi vous ne pouvez pas payer, la location sera annulée. Si vous ne pouvez pas payer la location, elle sera annulée.\nEn cas d'annulation de location forcée, le véhicule est détruit,\nensuite vous serez banni de la location pendant 1 jour en jeu et vous devrez payer une amende de 3,000€.\nLes investissements dans les modifications de véhicules ne sont pas remboursés.",
+		rent_desc = "Premier frais : 10,000 kr.\nEnsuite, le paiement est effectué chaque soir en jeu d'un montant de %s.\nSi vous ne pouvez pas payer, la location sera annulée. Si vous ne pouvez pas payer la location, elle sera annulée.\nEn cas d'annulation de location forcée, le véhicule est détruit,\nensuite vous serez banni de la location pendant 1 jour en jeu et vous devrez payer une amende de 3,000 kr.\nLes investissements dans les modifications de véhicules ne sont pas remboursés.",
 		fine = "Amende",
-		fine_desc = "Vous devez payer une amende de 3,000€ pour détruire le véhicule loué,\navant d'utiliser la location de nouveau.\nPayer maintenant ?",
+		fine_desc = "Vous devez payer une amende de 3,000 kr pour détruire le véhicule loué,\navant d'utiliser la location de nouveau.\nPayer maintenant ?",
 		free = "GRATUIT",
 
 		slot_names = {
