@@ -50,7 +50,7 @@ var langs = {
 		hints: [
 
 		],
-		ac_warning: "L'utilisation de logiciels de triche est formellement interdit et est punie par une sanction irrévoquable",
+		ac_warning: "L'utilisation de logiciels de triche est formellement interdit et est punie par une sanction irrévocable",
 		ac_frags: "Joueurs bannis pour triche : ",
 	}
 }
